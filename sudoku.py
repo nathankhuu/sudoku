@@ -120,7 +120,7 @@ def main():
             else:
                 print("incorrect")
         else:
-            print("choose change or check")
+            print("choose change or submit")
     print("congrats, you won!")
 
 
